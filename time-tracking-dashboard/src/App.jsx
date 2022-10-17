@@ -10,7 +10,7 @@ function App() {
             <div className="p-5">
               <img
                 className="w-20 border-4 rounded-full"
-                src="./src/images/image-jeremy.png"
+                src="images/image-jeremy.png"
                 alt="Foto de perfil"
               />
             </div>
